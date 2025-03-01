@@ -16,7 +16,7 @@ useEffect(() => {
 
 
   return (
-    <Box p={2}  sx={{overflow:'auto', height:'90vh', flex:2, paddingInline:'100px'}} >
+    <Box p={2}  sx={{overflow:'auto', height:'90vh', flex:2}} >
     <Typography variant='h4'
     fontWeight='bold' mb={2} sx={{
       color:'white'
